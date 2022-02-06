@@ -1,2 +1,0 @@
-# Djuka
-Hi
